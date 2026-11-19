@@ -1,0 +1,18 @@
+{
+  "deviceType": "DESKTOP",
+  "height": "13890",
+  "htmlCode": {
+    "downloadUrl": "https://stitch.googleapis.com/v1/projects/15930481032078485906/files/4a06c76b9d174d17ac2d24bbfb54a828:download",
+    "mimeType": "text/html",
+    "name": "projects/15930481032078485906/screens/4a06c76b9d174d17ac2d24bbfb54a828/fileEntries/html"
+  },
+  "name": "projects/15930481032078485906/screens/4a06c76b9d174d17ac2d24bbfb54a828",
+  "screenType": "DESIGN",
+  "screenshot": {
+    "downloadUrl": "https://stitch.googleapis.com/v1/projects/15930481032078485906/files/screenshot_000660a2f8ec4621034a4e31a1380c99:download",
+    "mimeType": "image/png",
+    "name": "projects/15930481032078485906/screens/4a06c76b9d174d17ac2d24bbfb54a828/fileEntries/screenshot"
+  },
+  "title": "Portf\u00f3lio Milton Sylvio - Fullstack (com Preloader)",
+  "width": "2560"
+}
