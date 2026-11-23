@@ -32,7 +32,10 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
           rel='stylesheet'
         />
       </head>
-      <body className='min-h-full bg-background font-mono text-body-md text-on-surface'>
+      <body
+        className='min-h-full bg-background font-mono text-body-md text-on-surface'
+        suppressHydrationWarning
+      >
         {children}
       </body>
     </html>
